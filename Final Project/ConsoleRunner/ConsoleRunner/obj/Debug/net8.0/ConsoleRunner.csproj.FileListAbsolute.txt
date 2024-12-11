@@ -1,0 +1,76 @@
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.exe
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.deps.json
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.runtimeconfig.json
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.dll
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.pdb
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfoInputs.cache
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfo.cs
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.csproj.CoreCompileInputs.cache
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.dll
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\refint\ConsoleRunner.dll
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.pdb
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.genruntimeconfig.cache
+D:\CometByte\Exercise\C#\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ref\ConsoleRunner.dll
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.exe
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.deps.json
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.runtimeconfig.json
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.dll
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.pdb
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfoInputs.cache
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfo.cs
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.dll
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\refint\ConsoleRunner.dll
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.pdb
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.genruntimeconfig.cache
+C:\Users\rosal\Downloads\ConsoleRunner\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ref\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfoInputs.cache
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfo.cs
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\refint\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.pdb
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.exe
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.deps.json
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.runtimeconfig.json
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.pdb
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.genruntimeconfig.cache
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ref\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.ConsoleProjects.BHCM.Resource1.resources
+C:\Users\rosal\Downloads\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.csproj.GenerateResource.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.exe
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.deps.json
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.runtimeconfig.json
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.pdb
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.ConsoleProjects.BHCM.Resource1.resources
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.csproj.GenerateResource.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfoInputs.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfo.cs
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\refint\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.pdb
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.genruntimeconfig.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ref\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.exe
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.deps.json
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.runtimeconfig.json
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\bin\Debug\net8.0\ConsoleRunner.pdb
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.ConsoleProjects.BHCM.Resource1.resources
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.csproj.GenerateResource.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfoInputs.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.AssemblyInfo.cs
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\refint\ConsoleRunner.dll
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.pdb
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ConsoleRunner.genruntimeconfig.cache
+C:\Users\rosal\Downloads\Final Project\Final Project\Final Project\ConsoleRunner\ConsoleRunner\obj\Debug\net8.0\ref\ConsoleRunner.dll

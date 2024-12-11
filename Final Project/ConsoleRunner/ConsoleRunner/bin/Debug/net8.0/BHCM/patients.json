@@ -1,0 +1,68 @@
+[
+  {
+    "Code": "PTN-001",
+    "Age": 23,
+    "Gender": "Male",
+    "Contact": "43434343",
+    "MedicalHistory": "Asthma",
+    "IsDeleted": false,
+    "Id": 1,
+    "Data": "ID: 1, Code: PTN-001, Name: Samuel Jackson, Age: 23, Gender: Male, Contact: 43434343, Medical History: Asthma",
+    "Name": "Samuel Jackson"
+  },
+  {
+    "Code": "PTN-002",
+    "Age": 34,
+    "Gender": "Male",
+    "Contact": "232365633232",
+    "MedicalHistory": "Influenza",
+    "IsDeleted": false,
+    "Id": 2,
+    "Data": "ID: 2, Code: PTN-002, Name: William McKinley, Age: 34, Gender: Male, Contact: 232365633232, Medical History: Influenza",
+    "Name": "William McKinley"
+  },
+  {
+    "Code": "PTN-003",
+    "Age": 23,
+    "Gender": "Female",
+    "Contact": "32454",
+    "MedicalHistory": "Common Cold",
+    "IsDeleted": false,
+    "Id": 3,
+    "Data": "ID: 3, Code: PTN-003, Name: Emma R. Werther, Age: 23, Gender: Female, Contact: 32454, Medical History: Common Cold",
+    "Name": "Emma R. Werther"
+  },
+  {
+    "Code": "PTN-004",
+    "Age": 1,
+    "Gender": "Male",
+    "Contact": "4tt4t3",
+    "MedicalHistory": "reere",
+    "IsDeleted": false,
+    "Id": 4,
+    "Data": "ID: 4, Code: PTN-004, Name: 1, Age: 1, Gender: Male, Contact: 4tt4t3, Medical History: reere",
+    "Name": "1"
+  },
+  {
+    "Code": "PTN-005",
+    "Age": 45,
+    "Gender": "Male",
+    "Contact": "23223",
+    "MedicalHistory": "Alzheimer\u0027s disease",
+    "IsDeleted": false,
+    "Id": 5,
+    "Data": "ID: 5, Code: PTN-005, Name: Allan Turing, Age: 45, Gender: Male, Contact: 23223, Medical History: Alzheimer\u0027s disease",
+    "Name": "\tAllan Turing"
+  },
+  {
+    "Code": "PTN-006",
+    "Age": 23,
+    "Gender": "Male",
+    "Contact": "45767342",
+    "MedicalHistory": "Common cold",
+    "IsDeleted": false,
+    "Id": 6,
+    "Data": "ID: 6, Code: PTN-006, Name: Edward Wallace, Age: 23, Gender: Male, Contact: 45767342, Medical History: Common cold",
+    "Name": "Edward Wallace"
+  }
+]

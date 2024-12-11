@@ -1,0 +1,66 @@
+[
+  {
+    "Code": "DOC-001",
+    "Specialization": "Optometrist",
+    "IsDeleted": false,
+    "Data": "ID: 1, Code: DOC-001, Name: Olivia Silence, Specialization: Optometrist",
+    "Name": "Olivia Silence",
+    "Id": 1
+  },
+  {
+    "Code": "DOC-002",
+    "Specialization": "Otolarynologist",
+    "IsDeleted": false,
+    "Data": "ID: 2, Code: DOC-002, Name: Adele Naumann, Specialization: Otolarynologist",
+    "Name": "Adele Naumann",
+    "Id": 2
+  },
+  {
+    "Code": "DOC-003",
+    "Specialization": "General Physician",
+    "IsDeleted": false,
+    "Data": "ID: 3, Code: DOC-003, Name: Dorothy Franks, Specialization: General Physician",
+    "Name": "Dorothy Franks",
+    "Id": 3
+  },
+  {
+    "Code": "DOC-004",
+    "Specialization": "Medical Technician",
+    "IsDeleted": false,
+    "Data": "ID: 4, Code: DOC-004, Name: Joyce Moore, Specialization: Medical Technician",
+    "Name": "Joyce Moore",
+    "Id": 4
+  },
+  {
+    "Code": "DOC-005",
+    "Specialization": "Podiatrist",
+    "IsDeleted": false,
+    "Data": "ID: 5, Code: DOC-005, Name: Elliot Glover, Specialization: Podiatrist",
+    "Name": "Elliot Glover",
+    "Id": 5
+  },
+  {
+    "Code": "DOC-006",
+    "Specialization": "Pediatrician",
+    "IsDeleted": false,
+    "Data": "ID: 6, Code: DOC-006, Name: Mayer Stony, Specialization: Pediatrician",
+    "Name": "Mayer Stony",
+    "Id": 6
+  },
+  {
+    "Code": "DOC-007",
+    "Specialization": "Cardiologist",
+    "IsDeleted": false,
+    "Data": "ID: 7, Code: DOC-007, Name: Kirsten Wright, Specialization: Cardiologist",
+    "Name": "Kirsten Wright",
+    "Id": 7
+  },
+  {
+    "Code": "DOC-008",
+    "Specialization": "Podiatrist",
+    "IsDeleted": false,
+    "Data": "ID: 8, Code: DOC-008, Name: Allan Trumbull, Specialization: Podiatrist",
+    "Name": "Allan Trumbull",
+    "Id": 8
+  }
+]

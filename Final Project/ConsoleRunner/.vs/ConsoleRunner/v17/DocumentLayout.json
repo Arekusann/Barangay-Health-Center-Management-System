@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\.vs\\ConsoleRunner\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ConsoleRunner\\v17\\DocumentLayout.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\bhcm\\bhcmpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\bhcm\\bhcmpatients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\utils\\consoleutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\utils\\consoleutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\bhcm\\bhcmappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\bhcm\\bhcmappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\bhcm\\bhcmdoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\bhcm\\bhcmdoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\bhcm\\bhcmmedicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\bhcm\\bhcmmedicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\consolerunner\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\patients.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\patients.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\bhcm\\barangayhealthcentermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\bhcm\\barangayhealthcentermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\codefile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\utils\\enumerableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\utils\\enumerableextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\utils\\generalutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\utils\\generalutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\appointments.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\appointments.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\medicines.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\bhcm\\models\\bhcmmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\bhcm\\models\\bhcmmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\doctors.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\doctors.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\bhcm\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\bhcm\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|c:\\users\\rosal\\downloads\\final project\\final project\\consolerunner\\consolerunner\\consoleprojects\\bhcm\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06CCA0A-75DF-4C26-8CFE-C986F7346EFD}|ConsoleRunner\\ConsoleRunner.csproj|solutionrelative:consolerunner\\consoleprojects\\bhcm\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentLayout.json",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\.vs\\ConsoleRunner\\v17\\DocumentLayout.json",
+              "RelativeDocumentMoniker": ".vs\\ConsoleRunner\\v17\\DocumentLayout.json",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\.vs\\ConsoleRunner\\v17\\DocumentLayout.json",
+              "RelativeToolTip": ".vs\\ConsoleRunner\\v17\\DocumentLayout.json",
+              "ViewState": "AQIAACMBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T08:33:04.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ClassDiagram1.cd",
+              "RelativeToolTip": "ConsoleRunner\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-06T08:07:42.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "patients.json",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\patients.json",
+              "RelativeDocumentMoniker": "ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\patients.json",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\patients.json",
+              "RelativeToolTip": "ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\patients.json",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T03:37:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleUtils.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\Utils\\ConsoleUtils.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\Utils\\ConsoleUtils.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\Utils\\ConsoleUtils.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\Utils\\ConsoleUtils.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T03:59:02.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BHCMPatients.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMPatients.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMPatients.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMPatients.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMPatients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:08:37.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BHCMMedicines.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMMedicines.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMMedicines.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMMedicines.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMMedicines.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:02:54.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BHCMDoctors.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMDoctors.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMDoctors.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMDoctors.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMDoctors.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwJYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:00:16.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BHCMAppointments.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMAppointments.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMAppointments.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMAppointments.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\BHCM\\BHCMAppointments.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:01:03.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarangayHealthCenterManagement.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BarangayHealthCenterManagement.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\BHCM\\BarangayHealthCenterManagement.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\BarangayHealthCenterManagement.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\BHCM\\BarangayHealthCenterManagement.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:22:01.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CodeFile1.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\CodeFile1.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\CodeFile1.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\CodeFile1.cs",
+              "RelativeToolTip": "ConsoleRunner\\CodeFile1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:09:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\Program.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\Program.cs",
+              "RelativeToolTip": "ConsoleRunner\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:09:42.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnumerableExtension.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\Utils\\EnumerableExtension.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\Utils\\EnumerableExtension.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\Utils\\EnumerableExtension.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\Utils\\EnumerableExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:47.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GeneralUtils.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\Utils\\GeneralUtils.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\Utils\\GeneralUtils.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\Utils\\GeneralUtils.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\Utils\\GeneralUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:59.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\Interface1.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\Interface1.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\Interface1.cs",
+              "RelativeToolTip": "ConsoleRunner\\Interface1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:09:48.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "medicines.json",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\medicines.json",
+              "RelativeDocumentMoniker": "ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\medicines.json",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\medicines.json",
+              "RelativeToolTip": "ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\medicines.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T09:33:40.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appointments.json",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\appointments.json",
+              "RelativeDocumentMoniker": "ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\appointments.json",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\appointments.json",
+              "RelativeToolTip": "ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\appointments.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T09:33:51.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "doctors.json",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\doctors.json",
+              "RelativeDocumentMoniker": "ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\doctors.json",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\doctors.json",
+              "RelativeToolTip": "ConsoleRunner\\bin\\Debug\\net8.0\\BHCM\\doctors.json",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T09:33:56.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BHCMModels.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\Models\\BHCMModels.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\BHCM\\Models\\BHCMModels.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\Models\\BHCMModels.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\BHCM\\Models\\BHCMModels.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:21:41.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Resource1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\Resource1.Designer.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\BHCM\\Resource1.Designer.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\Resource1.Designer.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\BHCM\\Resource1.Designer.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:53:40.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\SampleData.cs",
+              "RelativeDocumentMoniker": "ConsoleRunner\\ConsoleProjects\\BHCM\\SampleData.cs",
+              "ToolTip": "C:\\Users\\rosal\\Downloads\\Final Project\\Final Project\\ConsoleRunner\\ConsoleRunner\\ConsoleProjects\\BHCM\\SampleData.cs",
+              "RelativeToolTip": "ConsoleRunner\\ConsoleProjects\\BHCM\\SampleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T09:53:45.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
